@@ -61,5 +61,52 @@ The above, “Relative Gap by Job Position Levels,” reveals a clear imbalance 
 This line chart, titled "Salary Trends by Title," compares the average annual pay for four roles: Business Analyst (BA), Data Analyst (DA), Data Engineer (DE), and Data Scientist (DS), across years of experience. The data clearly shows that Data Engineer (DE) and Data Scientist (DS) roles consistently command the highest salaries, generally fluctuating between $120,000 and $250,000. These two high-demand titles exhibit significant salary volatility, with the Data Engineer salary seeing a dramatic spike near the 9-year experience mark.
 In contrast, Business Analyst (BA) and Data Analyst (DA) salaries remain relatively stable and clustered together at the lower end of the spectrum, mostly ranging from $70,000 to $110,000. These roles show less variation with increasing experience compared to the engineering and science roles. Overall, the data suggests a substantial premium is placed on Data Engineering and Data Science expertise throughout a professional's career, while the analytical and business-focused roles maintain a more consistent, lower pay scale.
 
+---
+Key Findings - Analysis Answers: 
+
+A. Market Dynamics & Competition
+
+The overall job market shows high competition, with 140,268 applicants competing for 9,261 job openings, resulting in an average of 15.15 applicants per job.
+
+Internship and Entry-level positions face the highest competitive pressure, with relative gap scores of 19.78 and 17.80, respectively.
+
+In contrast, Executive and Director roles have much smaller gaps, reflecting lower applicant density but higher skill requirements, signaling a shortage of qualified senior professionals.
+
+B. Experience & Demand Alignment
+
+The optimal experience range to target the highest job demand lies between 3 to 6 years, where job postings peak — specifically reaching 1,816 openings at 4 years of experience.
+
+Experience requirements scale consistently across the career ladder:
+
+Internship: ~0.3 years
+
+Entry-level: ~1.6 years
+
+Associate: ~3.7 years
+
+Mid-Senior: ~5.4 years
+
+Director: ~9 years
+
+Executive: ~14 years
+
+This steady progression indicates a structured career path, where experience directly correlates with role complexity and responsibility.
+
+C. Salary Trends & Value
+
+Among the four data roles, Data Engineer (DE) and Data Scientist (DS) show the highest salary volatility and peak earning potential, with salaries ranging between $120,000 and $250,000.
+
+Business Analyst (BA) and Data Analyst (DA) roles maintain stable, moderate pay scales, typically between $70,000 and $110,000.
+
+These trends highlight a strong market premium for technical and infrastructure-focused roles, while analytical and business-oriented positions show steady but lower pay growth.
+ 
+D. Historical Volatility
+
+Between 2017 and 2019, both job postings and applications remained relatively stable.
+
+A sharp surge in 2020 marked a period of market expansion — likely driven by pandemic-related digital transformation and remote work trends.
+
+From 2021 to 2022, both postings and applications fluctuated, reflecting adjustments to new hiring models, remote job structures, and post-pandemic recovery in the labor market.
+
 
 
