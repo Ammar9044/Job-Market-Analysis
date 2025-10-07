@@ -30,3 +30,4 @@ The following questions guided this project's analysis of the job market for key
 ---
 
 
+<img width="294" height="261" alt="KPI" src="https://github.com/user-attachments/assets/28db7448-9b12-4541-9f26-23c85d945825" />
