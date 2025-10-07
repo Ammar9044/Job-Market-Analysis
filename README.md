@@ -104,14 +104,14 @@ D. Historical Volatility
 
 Between 2017 and 2019, both job postings and applications remained relatively stable.
 
-A sharp surge in 2020 marked a period of market expansion — likely driven by pandemic-related digital transformation and remote work trends.
+A sharp surge in 2020 marked a period of market expansion - likely driven by pandemic-related digital transformation and remote work trends.
 
 From 2021 to 2022, both postings and applications fluctuated, reflecting adjustments to new hiring models, remote job structures, and post-pandemic recovery in the labor market.
 
 ---
 Overall Insight Summary
 
-The job market for data professionals presents a clear duality — oversaturation at entry levels and high demand at mid to senior levels. While new graduates face intense competition for limited openings, professionals with 3–6 years of experience hold a strategic advantage in both job availability and salary growth. Roles such as Data Engineer and Data Scientist continue to dominate in earning potential, reflecting the market’s increasing reliance on technical expertise and data infrastructure. Overall, the landscape rewards skill specialization, adaptability, and continuous learning — qualities that enable candidates to stand out in an evolving and competitive data-driven economy.
+The job market for data professionals presents a clear duality - oversaturation at entry levels and high demand at mid to senior levels. While new graduates face intense competition for limited openings, professionals with 3–6 years of experience hold a strategic advantage in both job availability and salary growth. Roles such as Data Engineer and Data Scientist continue to dominate in earning potential, reflecting the market’s increasing reliance on technical expertise and data infrastructure. Overall, the landscape rewards skill specialization, adaptability, and continuous learning - qualities that enable candidates to stand out in an evolving and competitive data-driven economy.
 
 
 
