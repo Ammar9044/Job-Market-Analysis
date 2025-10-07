@@ -30,4 +30,9 @@ The following questions guided this project's analysis of the job market for key
 ---
 
 
-<img width="294" height="261" alt="KPI" src="https://github.com/user-attachments/assets/28db7448-9b12-4541-9f26-23c85d945825" />
+                                        <img width="294" height="261" alt="KPI" src="https://github.com/user-attachments/assets/28db7448-9b12-4541-9f26-23c85d945825" />
+ 
+This visual displays the Key Performance Indicators (KPIs) of the analyzed job market.
+The market has a total of 140,268 Applicants competing for 9,261 Jobs.
+This results in a high competition ratio, quantified as 15.15 Applicants per Job. This metric is crucial for understanding the market's competitiveness, indicating that for every single job opening, there are over fifteen individuals vying for the position
+                                       
