@@ -40,3 +40,8 @@ This results in a high competition ratio, quantified as 15.15 Applicants per Job
 
   The “Trends in Job Openings and Applications” chart presents how job dynamics have evolved between 2017 and 2022. Job postings and applications remained relatively stable until 2019 but spiked sharply around 2020 — a shift likely tied to the pandemic, which disrupted industries and changed how people searched for jobs. The following years show fluctuating patterns, suggesting a market in transition — adjusting to remote work, new hiring models, and changing economic conditions.
         
+<img width="365" height="285" alt="jobs bby experience" src="https://github.com/user-attachments/assets/f98b8699-42bc-4ebd-b522-53de08144b48" />
+
+The Job Postings by Experience chart clearly illustrates a demand curve that resembles a bell shape. Job volume shows a steady increase, climbing from 589 postings at 1 year of experience. Demand hits its maximum at the 4-year mark, with an outstanding 1816 job postings. This peak signifies that the vast majority of opportunities target professionals with moderate experience. Beyond this point, the number of jobs begins a consistent decline.
+Postings drop below 1,000 at 7 years and continue to fall. The market shows significantly less demand for highly experienced candidates, with opportunities for 10 to 12 years of experience dwindling to below 100. In summary, the job market strongly favors the mid-level professional segment (3-6 years).
+
