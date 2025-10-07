@@ -28,9 +28,8 @@ The following questions guided this project's analysis of the job market for key
 - What were the most significant periods of market expansion and contraction (job openings vs. applications) between **2017 and 2022**?
 
 ---
-
-
-                                        <img width="294" height="261" alt="KPI" src="https://github.com/user-attachments/assets/28db7448-9b12-4541-9f26-23c85d945825" />
+  
+   <img width="294" height="261" alt="KPI" src="https://github.com/user-attachments/assets/28db7448-9b12-4541-9f26-23c85d945825" />
  
 This visual displays the Key Performance Indicators (KPIs) of the analyzed job market.
 The market has a total of 140,268 Applicants competing for 9,261 Jobs.
