@@ -45,3 +45,21 @@ This results in a high competition ratio, quantified as 15.15 Applicants per Job
 The Job Postings by Experience chart clearly illustrates a demand curve that resembles a bell shape. Job volume shows a steady increase, climbing from 589 postings at 1 year of experience. Demand hits its maximum at the 4-year mark, with an outstanding 1816 job postings. This peak signifies that the vast majority of opportunities target professionals with moderate experience. Beyond this point, the number of jobs begins a consistent decline.
 Postings drop below 1,000 at 7 years and continue to fall. The market shows significantly less demand for highly experienced candidates, with opportunities for 10 to 12 years of experience dwindling to below 100. In summary, the job market strongly favors the mid-level professional segment (3-6 years).
 
+
+<img width="405" height="259" alt="Job vs Experience - Job market" src="https://github.com/user-attachments/assets/183f3dfe-c45e-4397-b375-a0b982df07c4" />
+
+
+The “Job Type vs. Experience,” reinforces this understanding by showing the average experience required at each job level. The progression is smooth — internships typically need under a year of experience, while entry-level roles average around 1.6 years. As we move toward associate and mid-senior levels, the required experience grows to around 4–5 years, eventually reaching nearly 9 years for directors and over 14 years for executives. This consistent rise reflects a well-defined career growth structure where responsibilities and skill expectations increase gradually with experience.
+
+<img width="851" height="247" alt="Gap" src="https://github.com/user-attachments/assets/8c476fe5-c06b-4a83-b743-f4f2021c9b8a" />
+
+The above, “Relative Gap by Job Position Levels,” reveals a clear imbalance between job openings and the number of applicants. Entry-level and internship roles face the largest relative gaps, showing that while these positions attract thousands of applicants, the number of available jobs remains limited. On the other hand, executive and director-level positions have significantly smaller gaps, suggesting that these senior roles are less saturated and demand more specialized experience. This pattern highlights how the job market is crowded at the beginning of career paths, while higher-level positions struggle with talent shortages.
+
+
+<img width="380" height="312" alt="Salaries by title" src="https://github.com/user-attachments/assets/1a81ff55-2632-4052-8169-6ded07a570b8" />
+
+This line chart, titled "Salary Trends by Title," compares the average annual pay for four roles: Business Analyst (BA), Data Analyst (DA), Data Engineer (DE), and Data Scientist (DS), across years of experience. The data clearly shows that Data Engineer (DE) and Data Scientist (DS) roles consistently command the highest salaries, generally fluctuating between $120,000 and $250,000. These two high-demand titles exhibit significant salary volatility, with the Data Engineer salary seeing a dramatic spike near the 9-year experience mark.
+In contrast, Business Analyst (BA) and Data Analyst (DA) salaries remain relatively stable and clustered together at the lower end of the spectrum, mostly ranging from $70,000 to $110,000. These roles show less variation with increasing experience compared to the engineering and science roles. Overall, the data suggests a substantial premium is placed on Data Engineering and Data Science expertise throughout a professional's career, while the analytical and business-focused roles maintain a more consistent, lower pay scale.
+
+
+
