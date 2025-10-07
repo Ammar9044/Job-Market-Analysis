@@ -26,3 +26,7 @@ The following questions guided this project's analysis of the job market for key
 
 #### 🟥 D. Historical Volatility
 - What were the most significant periods of market expansion and contraction (job openings vs. applications) between **2017 and 2022**?
+
+---
+
+
