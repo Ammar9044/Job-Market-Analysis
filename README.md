@@ -1,6 +1,6 @@
 ## 💼 Job Market Analysis: Data Roles (The Art of Visualization) 📊
 
-### 1) Analysis Questions
+###  Analysis Questions
 
 The following questions guided this project's analysis of the job market for key data roles (**Business Analyst**, **Data Analyst**, **Data Engineer**, and **Data Scientist**):
 
