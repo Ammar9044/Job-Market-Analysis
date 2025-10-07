@@ -1,4 +1,4 @@
-## 💼 Job Market Analysis: Data Roles 📊
+## 💼 Job Market Analysis: Data Roles (The art of Visualization) 📊
 
 ### 1) Analysis Questions
 
@@ -38,7 +38,7 @@ This results in a high competition ratio, quantified as 15.15 Applicants per Job
 
   <img width="397" height="299" alt="trends of postings and appl - job market" src="https://github.com/user-attachments/assets/cef8a411-1fd7-498b-9358-3f2a49b735e2" />
 
-  The “Trends in Job Openings and Applications” chart presents how job dynamics have evolved between 2017 and 2022. Job postings and applications remained relatively stable until 2019 but spiked sharply around 2020 — a shift likely tied to the pandemic, which disrupted industries and changed how people searched for jobs. The following years show fluctuating patterns, suggesting a market in transition — adjusting to remote work, new hiring models, and changing economic conditions.
+  The “Trends in Job Openings and Applications” chart presents how job dynamics have evolved between 2017 and 2022. Job postings and applications remained relatively stable until 2019 but spiked sharply around 2020 - a shift likely tied to the pandemic, which disrupted industries and changed how people searched for jobs. The following years show fluctuating patterns, suggesting a market in transition - adjusting to remote work, new hiring models, and changing economic conditions.
         
 <img width="365" height="285" alt="jobs bby experience" src="https://github.com/user-attachments/assets/f98b8699-42bc-4ebd-b522-53de08144b48" />
 
